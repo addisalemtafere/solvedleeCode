@@ -1,0 +1,13 @@
+D:\leeCode\0001_TwoSum\TwoSum\L_001_TwoSum\bin\Debug\netcoreapp3.1\L_001_TwoSum.exe
+D:\leeCode\0001_TwoSum\TwoSum\L_001_TwoSum\bin\Debug\netcoreapp3.1\L_001_TwoSum.deps.json
+D:\leeCode\0001_TwoSum\TwoSum\L_001_TwoSum\bin\Debug\netcoreapp3.1\L_001_TwoSum.runtimeconfig.json
+D:\leeCode\0001_TwoSum\TwoSum\L_001_TwoSum\bin\Debug\netcoreapp3.1\L_001_TwoSum.runtimeconfig.dev.json
+D:\leeCode\0001_TwoSum\TwoSum\L_001_TwoSum\bin\Debug\netcoreapp3.1\L_001_TwoSum.dll
+D:\leeCode\0001_TwoSum\TwoSum\L_001_TwoSum\bin\Debug\netcoreapp3.1\L_001_TwoSum.pdb
+D:\leeCode\0001_TwoSum\TwoSum\L_001_TwoSum\obj\Debug\netcoreapp3.1\L_001_TwoSum.csprojAssemblyReference.cache
+D:\leeCode\0001_TwoSum\TwoSum\L_001_TwoSum\obj\Debug\netcoreapp3.1\L_001_TwoSum.AssemblyInfoInputs.cache
+D:\leeCode\0001_TwoSum\TwoSum\L_001_TwoSum\obj\Debug\netcoreapp3.1\L_001_TwoSum.AssemblyInfo.cs
+D:\leeCode\0001_TwoSum\TwoSum\L_001_TwoSum\obj\Debug\netcoreapp3.1\L_001_TwoSum.csproj.CoreCompileInputs.cache
+D:\leeCode\0001_TwoSum\TwoSum\L_001_TwoSum\obj\Debug\netcoreapp3.1\L_001_TwoSum.dll
+D:\leeCode\0001_TwoSum\TwoSum\L_001_TwoSum\obj\Debug\netcoreapp3.1\L_001_TwoSum.pdb
+D:\leeCode\0001_TwoSum\TwoSum\L_001_TwoSum\obj\Debug\netcoreapp3.1\L_001_TwoSum.genruntimeconfig.cache
